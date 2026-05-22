@@ -1,1 +1,3 @@
-print("hello world!")
+def ok():
+    print("hello world!")
+ok()
