@@ -1,3 +1,3 @@
-def ok():
-    print("hello world!")
-ok()
+def ok(name):
+    print(f"hello {name}!")
+ok("alex")
